@@ -1,2 +1,5 @@
 name: Batman, Hero
 markdown: kramdown
+
+# add "blog" to the blog url
+permalink: /blog/:year/:month/:day/:title
