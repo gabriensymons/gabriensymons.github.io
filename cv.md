@@ -7,8 +7,11 @@ title: Batman's CV
 ## Bruce Wayne
 
 Aka Not Batman
+
 1007 Mountain Drive
+
 Gotham City
+
 Preferred Method of Contact: Bat Signal
 
 
