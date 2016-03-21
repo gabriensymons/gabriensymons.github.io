@@ -2,8 +2,7 @@
 layout: default
 title: Batman's CV
 ---
-<div class="blurb">
-	<h1>My CV</h1>
+# My CV
 	
 ## Bruce Wayne
 Aka Not Batman
@@ -54,8 +53,4 @@ CEO – WAYNE ENTERPRISES – 1974-Present
 ### COMMUNITY INVOLVEMENTVIGILANTE 1975 – Present
 * Assisted and led an all-out assault on crime in Gotham City
 * Foiled the plots of mental health patients/super-geniuses The Joker, The Penguin, Riddler Scarecrow, Mr. Freeze, Catwoman,and Poison Ivy.
-* Close relationship with local police department including experience in round the clock on-call services by way of flood ligh
-	
-	
-	
-</div><!-- /.blurb -->
+* Close relationship with local police department including experience in round the clock on-call services by way of flood light
