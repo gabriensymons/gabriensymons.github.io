@@ -33,7 +33,7 @@ To obtain the position of Youth Care Worker, which will offer a variety of chall
 * Foreign Languages: Expert in over 100 languages including Kryptonian and Amazonian
 
 ### WORK EXPERIENCE
-CEO – WAYNE ENTERPRISES – 1974-Present
+CEO – WAYNE ENTERPRISES – 1974-Present  
 * Responsible for all aspects of Wayne Enterprises – overseeing all departments and functions.
 * Duties include: Oversight of multi-billion dollar international business and all responsibilities including charity work,finances, departmental structuring, deal brokering, and Alfred.
 
